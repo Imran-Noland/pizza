@@ -1,0 +1,12 @@
+#submit_button{
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+input{
+    margin: 10px;
+}
+.background{
+    background-image: url("https://media.istockphoto.com/photos/tasty-pepperoni-pizza-and-cooking-ingredients-tomatoes-basil-on-black-picture-id1083487948?k=20&m=1083487948&s=612x612&w=0&h=ROZ5t1K4Kjt5FQteVxTyzv_iqFcX8aqpl7YuA1Slm7w=");
+    background-position: center;
+    background-size: cover;
+}
